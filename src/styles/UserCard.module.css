@@ -1,0 +1,25 @@
+.card {
+  background-color: #f1f1f1;
+  padding: 0;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: var(--link-color);
+  font-weight: bold;
+}
+
+.cardImage {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+}
+
+.cardContent {
+  padding: 0 0.5rem;
+}
